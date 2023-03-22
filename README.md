@@ -1,0 +1,2 @@
+# NotePadSimpleVirus
+VIRUS USING NOTEPAD.
