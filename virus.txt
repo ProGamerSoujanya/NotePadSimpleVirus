@@ -4,7 +4,7 @@ X = MsgBox("The Malware can't be stopped",0+16,"Unable to Stop")
 dim speechobject
 
 set speechobject=createobject("sapi.spvoice")
-speechobject.speak "Attention! Your computer is being hacked. Your Ip Address & Your Device ID has been sold off to The TOR Dark Web. Lots Of Your Data Is Being Deleted. Stop This If You Can. Contacting A Security Will Lead To Device Destruction. We will automatically shutdown your Computer after our work is finished. Thank you for letting us hack into your device"
+speechobject.speak "YOUR MESSAGE"
 
 WScript.Sleep 10
 WScript.Sleep 10
