@@ -1,2 +1,3 @@
 # NotePadSimpleVirus
-VIRUS USING NOTEPAD.
+## DISCLAIMER 
+# Made for Educational Purposes Only
